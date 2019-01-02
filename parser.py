@@ -35,7 +35,7 @@ for div in divs:
 
 def show(number):
 	if number>100:
-		print("Введи число, ушлепок")
+		print("Введи число до 100, ушлепок")
 	else:
 		for i in range(number):
 			print (all_books[i])
